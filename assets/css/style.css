@@ -22,6 +22,16 @@ header {
     color: #fff;
 }
 
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 26px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #fff;
+
+}
+
 .logo {
     background: url("../imgs/headshot.jpg");
     background-color: red;
