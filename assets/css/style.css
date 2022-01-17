@@ -9,7 +9,8 @@
     background-color: #e67e22;
 }
 
-.ui-menu-color-resume {
+.ui-menu-color-resume,
+.bg-color-work-history {
     background-color: #9b59b6;
 }
 
@@ -28,6 +29,8 @@
 .bg-color-three-reasons {
     background-color: #fff;
 }
+
+
 
 /* ------------------------------------------Special paddings/margins/text */
 h1,
@@ -61,6 +64,7 @@ h4 {
     float: none;
 }
 
+.history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -281,4 +285,11 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+}
+
+/* ------------------------------------------Work History */
+
+.history-heading {
+    color: #fafafa;
+    margin-bottom: 50px;
 }
